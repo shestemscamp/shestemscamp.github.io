@@ -22,6 +22,21 @@
     -webkit-animation: colorchange 20s infinite alternate;
 }
 
+.list-row{
+  box-sizing: border-box;
+  display: block;
+  text-decoration: none;
+  color:inherit;
+  cursor: pointer;
+}
+
+.sponsor{
+    max-width: 24%;
+    height: auto;
+    padding: 2vw;
+    vertical-align: middle;
+}
+
 .pS {
     display: block;
     -webkit-margin-before: 1em;

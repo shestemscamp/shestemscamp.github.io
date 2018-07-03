@@ -9,6 +9,9 @@ html, body{
   width: 100%;
   margin: 0 !important;
   background: #eff6f8;
+  font-family: helvetica;
+  text-shadow: none;
+  color: black;
 }
 
 
@@ -367,7 +370,7 @@ body {
     max-width: 850px;
     margin-top: -30px;
     margin-bottom: 100px;
-    margin-left: 180px;
+    margin-left: 10px;
     height: auto;
     white-space:nowrap;
     text-align:center;
@@ -410,7 +413,7 @@ body {
   position: relative;
   margin: 0 auto;
   top: 70px;
-  background-image: url("https://scontent-sjc3-1.cdninstagram.com/vp/a42240e7f762dcfbd43f6a41568c7b40/5BA600C5/t51.2885-15/e35/31686885_168576310648774_3091467045334679552_n.jpg");
+  background-image: url("liv.JPG");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -424,7 +427,20 @@ body {
   position: relative;
   margin: 0 auto;
   top: 70px;
-  background-image: url(liv.JPG);
+  background-image: url("https://scontent-sjc3-1.cdninstagram.com/vp/abcd79cda01b2c6450282f82114a3146/5BC7D68F/t51.2885-19/s320x320/19764536_131377647448852_4769190127098396672_a.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 75%;
+  height: 62%;
+  border-radius: 100%;
+}
+
+.team-4{
+  position: relative;
+  margin: 0 auto;
+  top: 70px;
+  background-image: url("https://vignette.wikia.nocookie.net/janethevirgin/images/4/42/Image-not-available_1.jpg/revision/latest?cb=20150721102313");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -454,5 +470,12 @@ body {
   background: #3494e6;
   background: -webkit-linear-gradient(to right, #3494e6, #ec6ead);
   background: linear-gradient(to right, #3494e6, #ec6ead);
+  border-radius: 5px;
+}
+.img-box-4{
+  height: 300px;
+  background: #70e1f5;
+  background: -webkit-linear-gradient(to right, #70e1f5, #ffd194);
+  background: linear-gradient(to right, #70e1f5, #ffd194);
   border-radius: 5px;
 }
